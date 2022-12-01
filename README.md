@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Johnson
 - I graduated from ASU in May of 2021 with a degree in Computer Science.
-- I’m currently looking for an entry level software engineering job.
+- I am a software engineer at Walmart Global Tech.
 - I'm currently collaborating on an NBA analysis project
 - 📫 Johnsonevanpatrick@gmail.com 
 
