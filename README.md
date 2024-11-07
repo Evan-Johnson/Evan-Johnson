@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Johnson
 - I graduated from ASU in May of 2021 with a degree in Computer Science.
-- I am a former software engineer at Walmart Global Tech.
+- I work for Prov as a software engineer.
 - I'm currently working on an NBA analysis project, website building, and leetcode problems.
 - 📫 Johnsonevanpatrick@gmail.com 
 
