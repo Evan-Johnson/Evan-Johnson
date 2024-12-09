@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Johnson
+- Software Engineer at Prov
 - I graduated from ASU in May of 2021 with a degree in Computer Science.
-- I work for Prov as a software engineer.
 - I'm currently working on an NBA analysis project, website building, and leetcode problems.
 - 📫 Johnsonevanpatrick@gmail.com 
 
