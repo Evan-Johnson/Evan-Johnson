@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Evan-Johnson
+- Hello, I’m @Evan-Johnson
 - Software Engineer at Prov
-- I graduated from ASU in May of 2021 with a degree in Computer Science.
+- Former software engineer at Walmart
+- I received my B.S. in Computer Science from ASU in 2021.
 - I'm currently working on an NBA analysis project, Screeps AI, and website building.
 - 📫 Johnsonevanpatrick@gmail.com 
 
