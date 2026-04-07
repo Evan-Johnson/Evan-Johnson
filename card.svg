@@ -92,7 +92,7 @@
 
   <!-- Username line -->
   <text x="20" y="168" font-family="'JetBrains Mono', monospace" font-size="12">
-    <tspan fill="#58a6ff" font-weight="bold">evan</tspan>
+    <tspan fill="#58a6ff" font-weight="bold">evan-johnson</tspan>
     <tspan fill="#8b949e">@</tspan>
     <tspan fill="#58a6ff" font-weight="bold">github</tspan>
   </text>
@@ -102,7 +102,7 @@
   <text x="20" y="194" font-family="'JetBrains Mono', monospace" font-size="12">
     <tspan fill="#58a6ff" font-weight="bold">OS</tspan>
     <tspan fill="#8b949e">: </tspan>
-    <tspan fill="#e6edf3">Windows 11 / macOS</tspan>
+    <tspan fill="#e6edf3">macOS / Debian</tspan>
   </text>
   <text x="20" y="212" font-family="'JetBrains Mono', monospace" font-size="12">
     <tspan fill="#58a6ff" font-weight="bold">Host</tspan>
@@ -122,11 +122,11 @@
   <text x="20" y="266" font-family="'JetBrains Mono', monospace" font-size="12">
     <tspan fill="#58a6ff" font-weight="bold">Interests</tspan>
     <tspan fill="#8b949e">: </tspan>
-    <tspan fill="#e6edf3">AI/LLM, Automation,</tspan>
+    <tspan fill="#e6edf3">AI/LLM, NBA Data Analysis,</tspan>
   </text>
   <text x="20" y="282" font-family="'JetBrains Mono', monospace" font-size="12">
     <tspan fill="#8b949e">           </tspan>
-    <tspan fill="#e6edf3">Trading Bots</tspan>
+    <tspan fill="#e6edf3">Automation</tspan>
   </text>
 
   <!-- Color palette blocks -->
