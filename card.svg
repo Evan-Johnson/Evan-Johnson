@@ -34,11 +34,11 @@
 
   <!-- ASCII art: EVAN -->
   <text x="20" y="76" fill="#58a6ff" font-size="10" font-family="'JetBrains Mono', monospace" font-weight="bold">
-    <tspan x="20" dy="0">  _____   __   __   ___   _  _  </tspan>
-    <tspan x="20" dy="13"> | ____| \ \ / /  / _ \ | \| | </tspan>
-    <tspan x="20" dy="13"> |  _|    \ V /  | (_) || .` | </tspan>
-    <tspan x="20" dy="13"> |_____| _|\_/_ _ \___/ |_|\_| </tspan>
-    <tspan x="20" dy="13">         |____|                 </tspan>
+    <tspan x="20" dy="0"> _____  __     __    _      _   _ </tspan>
+    <tspan x="20" dy="13">| ____| \ \   / /   / \    | \ | |</tspan>
+    <tspan x="20" dy="13">|  _|    \ \ / /   / _ \   |  \| |</tspan>
+    <tspan x="20" dy="13">| |___    \ V /   / ___ \  | |\  |</tspan>
+    <tspan x="20" dy="13">|_____|    \_/   /_/   \_\ |_| \_|</tspan>
   </text>
 
   <!-- Username line -->
