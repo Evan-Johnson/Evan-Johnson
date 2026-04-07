@@ -32,14 +32,63 @@
 
   <!-- ==================== LEFT COLUMN ==================== -->
 
-  <!-- ASCII art: EVAN -->
-  <text x="20" y="76" fill="#58a6ff" font-size="10" font-family="'JetBrains Mono', monospace" font-weight="bold">
-    <tspan x="20" dy="0"> _____  __     __    _      _   _ </tspan>
-    <tspan x="20" dy="13">| ____| \ \   / /   / \    | \ | |</tspan>
-    <tspan x="20" dy="13">|  _|    \ \ / /   / _ \   |  \| |</tspan>
-    <tspan x="20" dy="13">| |___    \ V /   / ___ \  | |\  |</tspan>
-    <tspan x="20" dy="13">|_____|    \_/   /_/   \_\ |_| \_|</tspan>
-  </text>
+  <!-- Pixel-art block letters: EVAN (5×5 grid, 12px cell, 2px gap, 14px step) -->
+  <!-- E (lx=20) -->
+  <rect x="20"  y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="34"  y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="48"  y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="62"  y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="76"  y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="20"  y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="20"  y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="34"  y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="48"  y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="62"  y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="20"  y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="20"  y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="34"  y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="48"  y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="62"  y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="76"  y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <!-- V (lx=104) -->
+  <rect x="104" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="160" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="104" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="160" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="118" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="146" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="118" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="146" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="132" y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <!-- A (lx=188) -->
+  <rect x="202" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="216" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="230" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="188" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="244" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="188" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="202" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="216" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="230" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="244" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="188" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="244" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="188" y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="244" y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <!-- N (lx=272) -->
+  <rect x="272" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="328" y="55"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="272" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="286" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="328" y="69"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="272" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="300" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="328" y="83"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="272" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="314" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="328" y="97"  width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="272" y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
+  <rect x="328" y="111" width="12" height="12" rx="2" fill="#58a6ff"/>
 
   <!-- Username line -->
   <text x="20" y="168" font-family="'JetBrains Mono', monospace" font-size="12">
